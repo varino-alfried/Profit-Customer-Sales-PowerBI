@@ -40,3 +40,6 @@ Then tested all the dashboard information using SQL Queries on the original data
 ![Testing Dashboard](https://github.com/varino-alfried/Profit-Customer-Sales-PowerBI/blob/ac6d8cbfbd90e588d20e3e572249c03fd739b290/Task1_ECommerce_Sales_TESTCASES.pdf
  "Testing Dashboard")
 
+![Video for the dashboard](https://github.com/varino-alfried/Profit-Customer-Sales-PowerBI/blob/ac6d8cbfbd90e588d20e3e572249c03fd739b290/BBI-E-Commerce%20Sales%20Dashboard%20Power%20BI%20480p%20-%20Made%20with%20Clipchamp.mp4 "Video for the dashboard")
+
+Portfolio Link: https://www.novypro.com/project/e-commerce-sales--bbi
